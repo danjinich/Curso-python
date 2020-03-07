@@ -20,10 +20,12 @@ Temario:
     - Guia de colores
     - Graficas de distribución
       - Styles
-    - Graficas de pie :(
+    - Graficas de pay :(
     - Graficas de barras
       - Paletas de color
     - Graficas categoricas
     - Puntos
     - Regresiones
-    -Analisis rapido
+    - Analisis rapido
+    
+*No se pudo ver en el curso
